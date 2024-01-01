@@ -1,0 +1,33 @@
+body{
+  background-color: #aaa;
+  text-align: center;
+  padding-top: 100px;
+}
+button{
+  border: none;
+  background-color: brown;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  -webkit-transition: all ease 1s;
+  transition: all ease 1s;
+ 
+}
+button:hover{
+  color: aqua;
+  background-color: blueviolet;
+  box-shadow: 2px 2px 100px blueviolet;
+}
+p{
+  color: black;
+  padding: 15px;
+  border-radius: 20px;
+  cursor: copy;
+ -webkit-transition: all ease 1s;
+  transition: all ease 1s;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+}
